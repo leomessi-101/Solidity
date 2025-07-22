@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "number",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setter",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/stateVariable.sol": "stateVariable"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/stateVariable.sol": {
+			"keccak256": "0xa1a2bb8e1efb88c011e5a41187d944c9c93357a1eff5f309289b22f6faafbe62",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://5c43160e45dd3496ce88b0395b3366a0e1bf32b29fc7f088819d6f89a46f8793",
+				"dweb:/ipfs/QmTZe5wxzQLESC9ZSCe3cXVU11za5D4yBM9mDL47HVH5DA"
+			]
+		}
+	},
+	"version": 1
+}
