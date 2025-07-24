@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/demoFunction.sol": "demoF"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/demoFunction.sol": {
+			"keccak256": "0xa10e5f207c25a978ce810f5a8ffa0653695515bdf34aa37f8b8c7f5fcd64746b",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://5d79ec570668bf0265a5055a8d5fb57dcd98aebec43c7db68af56eebc2e3fff8",
+				"dweb:/ipfs/QmNkxAVj3Yu2B1Z3UszBe9CSPpwL4f52HFtmE7VeUQdoMN"
+			]
+		}
+	},
+	"version": 1
+}

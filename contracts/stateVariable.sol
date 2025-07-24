@@ -13,4 +13,5 @@ contract stateVariable {
     function setter() public {
         number=100;
     }
+
 }
